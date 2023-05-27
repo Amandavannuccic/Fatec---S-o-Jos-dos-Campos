@@ -1,5 +1,6 @@
-## Fatec-API-1-Sem-2023
-<h3 aling center> Este repositório será exclusivo para a postagem de API desenvolvidas na Fatec </h3> 
+## Fatec-API-1-Sem-2023  ![image](https://github.com/Amandavannuccic/Fatec-Sao-Jose-dos-Campos/assets/127263243/45ef8aed-5943-45e5-9f84-2ada8506b9ec)
+
+< h3  aling  center > Este repositório será exclusivo para a postagem de API desenvolvida na Fatec </ h3 > 
 
 ![image](https://user-images.githubusercontent.com/127263243/233722766-d2870d8c-4b24-4a7b-a2ff-0cb4749b22fc.png)
 
